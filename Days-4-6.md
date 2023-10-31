@@ -11,6 +11,7 @@ else:
     print("You are not an adult.")
 ```
 
+
 **Example of `elif` (else if) statement:**
 ```python
 grade = 75
