@@ -1,6 +1,8 @@
 # 30-Day Python Learning Roadmap
 This project provides a 30-day roadmap for learning the Python programming language. You can follow this roadmap to learn Python from scratch and grasp fundamental concepts.
 
+<img src="pthon-in-30-days.png">
+
 ## How to Use
 
 The learning materials for each day are contained in separate files in the project's root directory. To navigate to a specific day, you can either look at the filenames or refer to the content in the main "README.md" file.
