@@ -45,6 +45,11 @@ The project is divided into the following sections:
 
 The content for each day is elaborated in detail within the respective day's file.
 
+---
+
+Mastering Scapy: A Comprehensive Guide to Network [**Analysis**](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
+
+
 ##
 This roadmap will help you rapidly acquire fundamental Python skills. However, you can extend your learning time for a more in-depth understanding of Python and working on more complex projects. As you progress, you can tailor Python to your specific interests and work on more advanced projects.
 
