@@ -49,7 +49,9 @@ The content for each day is elaborated in detail within the respective day's fil
 
 ---
 
-Mastering Scapy: A Comprehensive Guide to Network [**Analysis**](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
+# 📖 My Book
+- Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
+
 
 
 ##
