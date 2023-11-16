@@ -55,7 +55,7 @@ For instance, to access the content for [Day 4-6](Days-4-6.md), simply open the 
 - Explore Python web frameworks like Flask and Django.
 - Create a simple web application and gain insights into web development.
 
-### [Last Project](Last Project.md): Simple Notepad Application
+### [Last Project](Last+Project.md): Simple Notepad Application
 - At the end of the day, you will develop a project to reinforce your Python learning.
 - Improve your file manipulation, user input and basic data management skills by creating a simple Notepad application
 
