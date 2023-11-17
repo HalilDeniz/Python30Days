@@ -97,11 +97,6 @@ This project is open source, and we welcome contributions from the community. If
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Open a pull request in the main repository.
----
-
-## License
-
-**Python Learning Roadmap in 30 Days** is licensed under the MIT License. You can find the details in the [LICENSE](LICENSE) file.
 
 ---
 
@@ -127,3 +122,9 @@ Thank you for your support! Together, let's continue building and learning.
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/denizhalil)
 
 Happy coding, and enjoy your Python learning journey!
+
+---
+
+## License
+
+**Python Learning Roadmap in 30 Days** is licensed under the MIT License. You can find the details in the [LICENSE](LICENSE) file.
