@@ -76,7 +76,7 @@ By following this structured approach, you'll gradually build your Python profic
 
 ---
 
-## 📖 BONUS: My Book
+### 📖 BONUS: My Book
 
 I'm excited to share my book, **"Mastering Scapy: A Comprehensive Guide to Network Analysis."** You can explore it [here](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/).
 
@@ -89,7 +89,7 @@ I'm excited to share my book, **"Mastering Scapy: A Comprehensive Guide to Netwo
 
 ---
 
-## 🤝 Contribution
+### 🤝 Contribution
 
 This project is open source, and we welcome contributions from the community. If you'd like to add new learning material to the roadmap or make corrections to existing content, please submit a pull request.
 1. Fork the repository.
@@ -100,7 +100,7 @@ This project is open source, and we welcome contributions from the community. If
 
 ---
 
-## Contact
+### Contact
 
 Feel free to get in touch if you have any questions or suggestions:
 
@@ -111,7 +111,7 @@ Feel free to get in touch if you have any questions or suggestions:
 - YouTube: [HalilDeniz](https://www.youtube.com/c/HalilDeniz)
 - My Site: [denizhalil.com](https://denizhalil.com/)
 
-## 💰 Support the Project
+### 💰 Support the Project
 
 If you find this project helpful, please consider supporting me. 
 Your support allows me to dedicate more time and effort to creating useful projects like Python30Days and developing new tools and resources. 
@@ -125,6 +125,6 @@ Happy coding, and enjoy your Python learning journey!
 
 ---
 
-## License
+### License
 
 **Python Learning Roadmap in 30 Days** is licensed under the MIT License. You can find the details in the [LICENSE](LICENSE) file.
