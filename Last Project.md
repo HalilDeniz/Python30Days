@@ -18,7 +18,6 @@ Create a Simple Notepad Application in Python using classes. This project will h
 
 ```python
 import os
-import os
 
 class Notepad:
     def __init__(self):
