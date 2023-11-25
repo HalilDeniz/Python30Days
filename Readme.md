@@ -59,6 +59,11 @@ For instance, to access the content for [Day 4-6](Days-4-6.md), simply open the 
 - At the end of the day, you will develop a project to reinforce your Python learning.
 - Improve your file manipulation, user input and basic data management skills by creating a simple Notepad application
 
+### [Last Project1](Last%20Project%201.md): Dictionary Application
+- At the end of the day, you will develop a project to reinforce your Python learning.
+- Improve your file manipulation, user input, and basic data management skills by creating a Dictionary application.
+
+
 This comprehensive roadmap will provide you with essential Python skills. However, don't hesitate to extend your learning journey for a deeper understanding of Python and the opportunity to tackle more advanced projects.
 
 ---
