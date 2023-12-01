@@ -16,7 +16,7 @@ This roadmap is perfect for beginners and anyone looking to solidify their Pytho
 The project is organized into separate sections for each day, making it easy for you to follow along. 
 Each day focuses on specific topics and provides practical examples and exercises to reinforce your learning.
 To navigate through the content, you can either explore the filenames or refer to the main "README.md" file. 
-For instance, to access the content for [Day 4-6](30 Days Essentials/Days-4-6.md), simply open the "[Day 4-6.md](30 Days Essentials/Days-4-6.md)" file.
+For instance, to access the content for [Day 4-6](30%20Days%20Essentials/Days-4-6.md), simply open the "[Day 4-6.md](30%20Days%20Essentials/Days-4-6.md)" file.
 
 ---
 
@@ -27,31 +27,31 @@ For instance, to access the content for [Day 4-6](30 Days Essentials/Days-4-6.md
 - Learn the basic syntax of Python and its core data types (string, integer, float, list, tuple, dictionary).
 - Install Python on your computer.
 
-### [Days 4-6](30 Days Essentials/Days-4-6.md): Conditional Statements and Loops
+### [Days 4-6](30%20Days%20Essentials/Days-4-6.md): Conditional Statements and Loops
 - Master conditional statements (if, elif, else) and logical operators.
 - Gain proficiency in using loops (for and while).
 
-### [Days 7-10](30 Days Essentials/Days-7-10.md): Data Structures
+### [Days 7-10](30%20Days%20Essentials/Days-7-10.md): Data Structures
 - Deepen your knowledge of data structures like lists, tuples, and dictionaries.
 - Practice working with data structures through hands-on exercises.
 
-### [Days 11-14](30 Days Essentials/Days-11-14.md): Functions and Modules
+### [Days 11-14](30%20Days%20Essentials/Days-11-14.md): Functions and Modules
 - Define and utilize functions in Python.
 - Explore basic Python modules (math, random, datetime).
 
-### [Days 15-18](30 Days Essentials/Days-15-18.md): File Handling and Error Handling
+### [Days 15-18](30%20Days%20Essentials/Days-15-18.md): File Handling and Error Handling
 - Learn the art of file reading and writing.
 - Master error handling techniques using try-except blocks.
 
-### [Days 19-22](30 Days Essentials/Days-19-22.md): Object-Oriented Programming (OOP)
+### [Days 19-22](30%20Days%20Essentials/Days-19-22.md): Object-Oriented Programming (OOP)
 - Understand classes and objects.
 - Dive into OOP concepts, including inheritance and polymorphism.
 
-### [Days 23-26](30 Days Essentials/Days-23-26.md): Database Connection and SQL
+### [Days 23-26](30%20Days%20Essentials/Days-23-26.md): Database Connection and SQL
 - Establish connections with databases (e.g., SQLite).
 - Learn to execute basic SQL queries for data manipulation.
 
-### [Days 27-30](30 Days Essentials/Days-27-30.md): Web Development and Frameworks
+### [Days 27-30](30%20Days%20Essentials/Days-27-30.md): Web Development and Frameworks
 - Explore Python web frameworks like Flask and Django.
 - Create a simple web application and gain insights into web development.
 
