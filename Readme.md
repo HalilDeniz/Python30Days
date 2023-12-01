@@ -22,7 +22,7 @@ For instance, to access the content for [Day 4-6](30 Days Essentials/Days-4-6.md
 
 ## 📁 Course Content
 
-### [Days 1-3](30 Days Essentials/Days-1-3.md): Basic Concepts and Installation
+### [Days 1-3](30%20Days%20Essentials/Days-1-3.md): Basic Concepts and Installation
 - Understand Python's introduction and why it's popular.
 - Learn the basic syntax of Python and its core data types (string, integer, float, list, tuple, dictionary).
 - Install Python on your computer.
