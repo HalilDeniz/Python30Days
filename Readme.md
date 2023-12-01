@@ -16,54 +16,69 @@ This roadmap is perfect for beginners and anyone looking to solidify their Pytho
 The project is organized into separate sections for each day, making it easy for you to follow along. 
 Each day focuses on specific topics and provides practical examples and exercises to reinforce your learning.
 To navigate through the content, you can either explore the filenames or refer to the main "README.md" file. 
-For instance, to access the content for [Day 4-6](Days-4-6.md), simply open the "[Day 4-6.md](Days-4-6.md)" file.
+For instance, to access the content for [Day 4-6](30 Days Essentials/Days-4-6.md), simply open the "[Day 4-6.md](30 Days Essentials/Days-4-6.md)" file.
 
 ---
 
 ## 📁 Course Content
 
-### [Days 1-3](Days-1-3.md): Basic Concepts and Installation
+### [Days 1-3](30 Days Essentials/Days-1-3.md): Basic Concepts and Installation
 - Understand Python's introduction and why it's popular.
 - Learn the basic syntax of Python and its core data types (string, integer, float, list, tuple, dictionary).
 - Install Python on your computer.
 
-### [Days 4-6](Days-4-6.md): Conditional Statements and Loops
+### [Days 4-6](30 Days Essentials/Days-4-6.md): Conditional Statements and Loops
 - Master conditional statements (if, elif, else) and logical operators.
 - Gain proficiency in using loops (for and while).
 
-### [Days 7-10](Days-7-10.md): Data Structures
+### [Days 7-10](30 Days Essentials/Days-7-10.md): Data Structures
 - Deepen your knowledge of data structures like lists, tuples, and dictionaries.
 - Practice working with data structures through hands-on exercises.
 
-### [Days 11-14](Days-11-14.md): Functions and Modules
+### [Days 11-14](30 Days Essentials/Days-11-14.md): Functions and Modules
 - Define and utilize functions in Python.
 - Explore basic Python modules (math, random, datetime).
 
-### [Days 15-18](Days-15-18.md): File Handling and Error Handling
+### [Days 15-18](30 Days Essentials/Days-15-18.md): File Handling and Error Handling
 - Learn the art of file reading and writing.
 - Master error handling techniques using try-except blocks.
 
-### [Days 19-22](Days-19-22.md): Object-Oriented Programming (OOP)
+### [Days 19-22](30 Days Essentials/Days-19-22.md): Object-Oriented Programming (OOP)
 - Understand classes and objects.
 - Dive into OOP concepts, including inheritance and polymorphism.
 
-### [Days 23-26](Days-23-26.md): Database Connection and SQL
+### [Days 23-26](30 Days Essentials/Days-23-26.md): Database Connection and SQL
 - Establish connections with databases (e.g., SQLite).
 - Learn to execute basic SQL queries for data manipulation.
 
-### [Days 27-30](Days-27-30.md): Web Development and Frameworks
+### [Days 27-30](30 Days Essentials/Days-27-30.md): Web Development and Frameworks
 - Explore Python web frameworks like Flask and Django.
 - Create a simple web application and gain insights into web development.
 
-### [Last Project](Last%20Project.md): Simple Notepad Application
-- At the end of the day, you will develop a project to reinforce your Python learning.
-- Improve your file manipulation, user input and basic data management skills by creating a simple Notepad application
 
-### [Last Project1](Last%20Project%201.md): Dictionary Application
-- At the end of the day, you will develop a project to reinforce your Python learning.
-- Improve your file manipulation, user input, and basic data management skills by creating a Dictionary application.
+### [Python Projects](Projects/Readme.md)
+you'll find a collection of practical Python projects to help you apply your programming knowledge and build useful applications.
 
+* **Simple Notepad Application**
+  - At the end of the day, you will develop a project to reinforce your Python learning.
+  - Improve your file manipulation, user input and basic data management skills by creating a simple Notepad application
+* **Dictionary Application**
+  - At the end of the day, you will develop a project to reinforce your Python learning.
+  - Improve your file manipulation, user input, and basic data management skills by creating a Dictionary application.
+* **Random Password Generator**
+  - Create a random password generator program using Python.
+  - Allow users to specify password length and character set preferences.
+  - Provide the option to save generated passwords to a file.
+* **Bank Application**
+  - A Python program that simulates basic banking operations.
+  - Users can create accounts, log in, check balances, deposit and withdraw money, and transfer funds securely.
+  - Enhance your Python skills, database management, and security knowledge.
+* **Weather Application**
+  - A Python program that provides real-time weather information for a specified city.
+  - Users can input a city name and receive data such as temperature, humidity, weather description, and wind speed.
+  - Enhance your Python skills, work with external APIs, and retrieve live weather data.
 
+    
 This comprehensive roadmap will provide you with essential Python skills. However, don't hesitate to extend your learning journey for a deeper understanding of Python and the opportunity to tackle more advanced projects.
 
 ---
@@ -81,7 +96,7 @@ By following this structured approach, you'll gradually build your Python profic
 
 ---
 
-### 📖 BONUS: My Book
+## 📖 BONUS: My Book
 
 I'm excited to share my book, **"Mastering Scapy: A Comprehensive Guide to Network Analysis."** You can explore it [here](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/).
 
@@ -94,7 +109,7 @@ I'm excited to share my book, **"Mastering Scapy: A Comprehensive Guide to Netwo
 
 ---
 
-### 🤝 Contribution
+## 🤝 Contribution
 
 This project is open source, and we welcome contributions from the community. If you'd like to add new learning material to the roadmap or make corrections to existing content, please submit a pull request.
 1. Fork the repository.
@@ -105,7 +120,7 @@ This project is open source, and we welcome contributions from the community. If
 
 ---
 
-### Contact
+## Contact
 
 Feel free to get in touch if you have any questions or suggestions:
 
@@ -116,7 +131,7 @@ Feel free to get in touch if you have any questions or suggestions:
 - YouTube: [HalilDeniz](https://www.youtube.com/c/HalilDeniz)
 - My Site: [denizhalil.com](https://denizhalil.com/)
 
-### 💰 Support the Project
+## 💰 Support the Project
 
 If you find this project helpful, please consider supporting me. 
 Your support allows me to dedicate more time and effort to creating useful projects like Python30Days and developing new tools and resources. 
@@ -130,6 +145,6 @@ Happy coding, and enjoy your Python learning journey!
 
 ---
 
-### License
+## License
 
 **Python Learning Roadmap in 30 Days** is licensed under the MIT License. You can find the details in the [LICENSE](LICENSE) file.
