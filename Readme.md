@@ -98,8 +98,9 @@ By following this structured approach, you'll gradually build your Python profic
 
 ## 📖 BONUS: My Book
 
-I'm excited to share my book, **"Mastering Scapy: A Comprehensive Guide to Network Analysis."** You can explore it [here](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/).
-
+I'm excited to share my books, 
+- Mastering Scapy: A Comprehensive Guide to Network Analysis. You can explore it [here](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/).
+- Beginning Your Journey in Programming and Cybersecurity - [Navigating the Digital Future](https://www.buymeacoffee.com/halildeniz/e/191664)
 ---
 
 ## 📬 How Can You Provide Feedback?
