@@ -77,11 +77,12 @@ you'll find a collection of practical Python projects to help you apply your pro
   - A Python program that provides real-time weather information for a specified city.
   - Users can input a city name and receive data such as temperature, humidity, weather description, and wind speed.
   - Enhance your Python skills, work with external APIs, and retrieve live weather data.
-
-    
-This comprehensive roadmap will provide you with essential Python skills. However, don't hesitate to extend your learning journey for a deeper understanding of Python and the opportunity to tackle more advanced projects.
-
----
+* **To-Do List Application**
+  - A to-do list application that allows users to manage their tasks and stay organized with a command-line interface.
+  - Practice creating and managing tasks, marking them as completed, and organizing your to-do list efficiently.
+* **Vehicle Rental Application**
+  - A vehicle rental application that enables users to rent and manage vehicles, making use of a secure login system and database storage.
+  - Implement user registration, vehicle addition, rental management, and secure login features while working with a database.
 
 ## 📋 Course Structure and Preparation
 
