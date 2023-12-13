@@ -11,6 +11,8 @@ Welcome to the Python Projects section! Here, you'll find a collection of practi
 3. [Notepad Application](Notepad%20Application.md): A basic notepad application that lets users create and save text-based notes in a user-friendly interface.
 4. [Password Generator](Password%20Generator.md): A password generator that creates strong and customizable passwords with various character sets and saving options.
 5. [Weather Application](Weather%20Application.md): A weather application that provides real-time weather information for a specified city, including temperature, humidity, and more.
+6. [To-Do List Application](To-Do-List-Application.md): A to-do list application that allows users to manage their tasks and stay organized with a command-line interface.
+7. [Vehicle Rental Application](Vehicle%20Rental%20Application.md): A vehicle rental application that enables users to rent and manage vehicles, making use of a secure login system and database storage.
 
 ## How to Use
 
