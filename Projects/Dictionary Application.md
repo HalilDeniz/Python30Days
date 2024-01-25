@@ -41,77 +41,77 @@ Feel free to explore and customize this project to suit your learning goals and 
 import sqlite3
 
 class DictionaryApp:
-    def __init__(self, db_name):
+    def __init__(self,db_name):
         self.conn = sqlite3.connect(db_name)
         self.cursor = self.conn.cursor()
         self.create_table()
 
     def create_table(self):
         self.cursor.execute('''
-            CREATE TABLE IF NOT EXISTS words (
+            CREATE TABLE IF NOT EXISTS words(
                 id INTEGER PRIMARY KEY,
                 word TEXT,
                 meaning TEXT,
-                sentence TEXT
+                sentence TEXT            
             )
-        ''')
+            ''')
         self.conn.commit()
 
-    def add_word(self, word, meaning, sentence):
-        self.cursor.execute("INSERT INTO words (word, meaning, sentence) VALUES (?, ?, ?)", (word, meaning, sentence))
+    def add_word(self,word,meaning,sentence):
+        self.cursor.execute("INSERT INTO words (word, meaning,sentence) VALUES ( ?, ?, ?)",(word,meaning,sentence))
         self.conn.commit()
 
     def list_words(self):
         self.cursor.execute("SELECT * FROM words")
         words = self.cursor.fetchall()
         return words
-
+    
     def search_word(self, word):
-        self.cursor.execute("SELECT * FROM words WHERE word=?", (word,))
-        word = self.cursor.fetchone()
+        self.cursor.execute("SELECT * FROM words WHERE word LIKE ? ORDER BY word ASC", ('%' + word + '%',))
+        word = self.cursor.fetchall()
         return word
-
-    def delete_word(self, word):
-        self.cursor.execute("DELETE FROM words WHERE word=?", (word,))
+    
+    def delete_word(self,word):
+        self.cursor.execute('DELETE FROM words WHERE word = ?',(word,))
         self.conn.commit()
 
     def close(self):
         self.conn.close()
 
 def main():
-    dictionary = DictionaryApp("words.db")
-
+    dictionary  = DictionaryApp("words.db")
     while True:
-        print("\nDictionary Application")
-        print("1. Add Word")
-        print("2. List Words")
-        print("3. Search Word")
-        print("4. Delete Word")
-        print("5. Exit")
+        print("\n Dictionary Application")
+        print("1 : Add Words")        
+        print("2 : list Words")
+        print("3 : Search Words")
+        print("4 : Delete Words")
+        print("5 : Exit")
 
-        choice = input("Select an operation: ")
-
-        if choice == "1":
+        choice = input("Select an operations : ")
+        if choice == "1" :
             word = input("Word: ")
             meaning = input("Meaning: ")
             sentence = input("Example Sentence: ")
-            dictionary.add_word(word, meaning, sentence)
-            print("Word added.")
+            dictionary.add_word(word,meaning,sentence)
+            print("Word added successfully...")
 
-        elif choice == "2":
+        elif choice == "2" :
             words = dictionary.list_words()
             if words:
-                print("\nWord List:")
+                print("\nWord List : ")
                 for word in words:
-                    print(f"Word: {word[1]}, Meaning: {word[2]}, Example Sentence: {word[3]}")
-            else:
-                print("No words found.")
+                    print(f"Words : {word[1]}, \nMeaning : {word[2]}, \nExample Sentence : {word[3]}")
+            else :
+                print("no words are added here now")
 
         elif choice == "3":
             word = input("Enter Word to Search: ")
+            print(word)
             result = dictionary.search_word(word)
             if result:
-                print(f"Word: {result[1]}, Meaning: {result[2]}, Example Sentence: {result[3]}")
+                for word in result:
+                    print(f"Words : {word[1]}, \nMeaning : {word[2]}, \nExample Sentence : {word[3]}")
             else:
                 print("Word not found.")
 
@@ -126,6 +126,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 ```
 
 This program creates a class called `DictionaryApp` that allows users to add words, list words, search for words, and delete words. It uses an SQLite database named "words.db" to store word data. Before running the program, make sure to create the "words.db" SQLite database file in the same directory or change the database name accordingly.
