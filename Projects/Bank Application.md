@@ -58,11 +58,22 @@ class BankApp:
         ''')
         self.conn.commit()
 
-    def create_account(self, username, password):
+    def user_already_exist(self):
+        username = input("Enter a username: ")
+        self.cursor.execute("SELECT username FROM accounts WHERE username = ?", (username))
+        account = self.cursor.fetchone()
+        if account:
+            print("Username already in use, use another new one")
+            self.user_already_exist()
+        else :
+            return username
+    
+    def create_account(self,username,password):
+        
         hashed_password = hashlib.sha256(password.encode()).hexdigest()
-        self.cursor.execute("INSERT INTO accounts (username, password, balance) VALUES (?, ?, ?)",
-                            (username, hashed_password, 0.0))
+        self.cursor.execute("INSERT INTO accounts (username, password, balance) VALUES (?,?,?)",(username,hashed_password,0.0))
         self.conn.commit()
+        print("Account created successfully.")
 
     def login(self, username, password):
         hashed_password = hashlib.sha256(password.encode()).hexdigest()
@@ -119,10 +130,9 @@ def main():
         choice = input("Select an operation: ")
 
         if choice == "1":
-            username = input("Enter a username: ")
+            username = bank_app.user_already_exist()
             password = input("Enter a password: ")
             bank_app.create_account(username, password)
-            print("Account created successfully.")
 
         elif choice == "2":
             username = input("Enter your username: ")
