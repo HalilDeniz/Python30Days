@@ -2,6 +2,16 @@
 
 Welcome to the **Python Learning Roadmap in 30 Days!** This project is designed to guide you through a structured 30-day journey to learn the Python programming language from scratch and master its fundamental concepts.
 
+## 🌐 Socials:
+[![Denizhalil](https://img.shields.io/badge/Denizhalil-%23E4405F.svg?logo=Denizhalil&logoColor=white)](https://denizhalil.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/deniz.halil333) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/halil-ibrahim-deniz) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@HalilDeniz) 
+[![Tryhackme](https://img.shields.io/badge/Tryhackme-%23E4405F.svg?logo=Tryhackme&logoColor=white)](https://tryhackme.com/p/halilovic)
+[![E-mail](https://img.shields.io/badge/email-%23E4405F.svg?logo=email&logoColor=white)](halildeniz313@gmail.com)
+[![Instagram](https://img.shields.io/badge/Discord-%23E4405F.svg?logo=Discord&logoColor=white)](https://discord.gg/nGBpfMHX4u)
+---
+
 ![Python Learning Roadmap](source/python-in-30-days.png)
 
 ## 🐍 Why Python and Why This Roadmap?
