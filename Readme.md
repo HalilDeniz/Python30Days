@@ -115,7 +115,8 @@ By following this structured approach, you'll gradually build your Python profic
 - You can look here for the Practical [Posts I share.](https://www.buymeacoffee.com/halildeniz/posts)
 - Mastering Scapy: A Comprehensive Guide to [Network Analysis](https://denizhalil.com/2023/11/12/scapy-guide-to-network-analysis-book/)
 - Beginning Your Journey in Programming and Cybersecurity - [Navigating the Digital Future](https://www.buymeacoffee.com/halildeniz/e/191664)
-
+- Python articles for you on our site - [Click here](https://denizhalil.com/category/python/)
+- Programming articles you on our site - [Click here](https://denizhalil.com/category/programming/)
 ---
 
 ## 📬 How Can You Provide Feedback?
