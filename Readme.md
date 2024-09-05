@@ -137,17 +137,6 @@ This project is open source, and we welcome contributions from the community. If
 
 ---
 
-## Contact
-
-Feel free to get in touch if you have any questions or suggestions:
-
-- Email: halildeniz313@gmail.com
-- LinkedIn: [halil-ibrahim-deniz](https://www.linkedin.com/in/halil-ibrahim-deniz/)
-- TryHackMe: [halilovic](https://tryhackme.com/p/halilovic)
-- Instagram: [deniz.halil333](https://www.instagram.com/deniz.halil333/)
-- YouTube: [HalilDeniz](https://www.youtube.com/c/HalilDeniz)
-- My Site: [denizhalil.com](https://denizhalil.com/)
-
 ## 💰 Support the Project
 
 If you find this project helpful, please consider supporting me. 
